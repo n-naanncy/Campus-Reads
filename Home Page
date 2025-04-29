@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <div class="fullcontent">
+        <div class="headings">
+            <h1>Campus Reads</h1>
+            <h2>Your academic journey starts here—discover the textbooks and resources you need to thrive!</h2>
+            <link rel="stylesheet" href="C:\Users\sarah\OneDrive\For School\Vesctor-Spring25\Campus Reads Website\styles.css">
+        </div>
+        <div class="formbox">
+            <h3>Log In</h3>
+            <form id="form" action="" method="post">
+                <label for="">Username</label>
+                <input type="text" name="username" class="asd"/>
+                <label for="">Password</label>
+                <input type="password" id="" name="password" class="asd"/>
+                <input id="btn" type="submit" name="submit" value="Log In" class="mainbox">
+                <label for="">New customer?</label>
+                <a href="register.html" class="mainbox">Register Now</a>
+            </form>	
